@@ -3,7 +3,7 @@
 ###
 class I18nResourceService
 
-    constructor: (@$log, @$translate) ->
+    constructor: ($log, @$translate) ->
         @$log = $log.getInstance 'I18nResourceService'
         @$log.debug "constructing"
 
