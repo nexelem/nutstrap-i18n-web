@@ -21,6 +21,8 @@ finally you can add the js to your html, (index.html)
 
 
 ```
-<script src="libs/i18n-web/dist/i18n-module.min.js" type="text/javascript"></script>
+To compile coffeescript, copy files to dist and concat into one use respectively grunt tasks: coffee, copy and uglify.
+grunt dist runs all those tasks.
+Complete, minified js file can be found in dist/i18n-module.min.js
 ```
 
