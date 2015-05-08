@@ -1,4 +1,4 @@
-### angular-i18n-web
+### nutstrap-i18n-web
 
 This module contains AngularJS functionality to manage *internationalisation* including Flash decorators and resource bundle loading.
 
