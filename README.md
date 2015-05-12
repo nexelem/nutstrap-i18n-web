@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nexelem/nutstrap-i18n-web.svg?branch=feature%2Ftravis)](https://travis-ci.org/nexelem/nutstrap-i18n-web)
+
 ### nutstrap-i18n-web
 
 This module contains AngularJS functionality to manage *internationalisation* including Flash decorators and resource bundle loading.
